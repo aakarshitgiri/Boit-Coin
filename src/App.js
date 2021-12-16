@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/Home' exact component={Home} />
           <Route path='/HeroSection' exact component={HeroSection} />
           <Route path='/roadMap' exact component={roadMap} />
           <Route path='/tokenOmics' exact component={tokenOmics} />
