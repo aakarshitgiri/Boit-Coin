@@ -124,6 +124,10 @@
     background-color: #25355C !important;
 
   }
+
+  .grid-hide{
+    display: none;
+  }
   .change1, .change3, .change5, .change7{
     background-color: black !important;
   }

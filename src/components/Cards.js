@@ -170,7 +170,7 @@ powers</p>
        </div>
    </div>
         </Grid>
-        <Grid item xs={12} sm={6} md={3} style={{textAlign: 'center'}}>
+        <Grid className='grid-hide' item xs={12} sm={6} md={3} style={{textAlign: 'center'}}>
              <div className="flip-card-inner ">
           <div className="flip-card-front change1" style={{justifyContent: 'left', display: 'block'}} >
              <h2 className="text2">Token <br /><span style={{color: 'white'}}>Highlights</span></h2>
