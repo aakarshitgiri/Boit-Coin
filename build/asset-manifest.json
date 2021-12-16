@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Boit-Coin/static/css/main.4877a3ef.chunk.css",
-    "main.js": "/Boit-Coin/static/js/main.a74eb2eb.chunk.js",
-    "main.js.map": "/Boit-Coin/static/js/main.a74eb2eb.chunk.js.map",
+    "main.js": "/Boit-Coin/static/js/main.5554a8d4.chunk.js",
+    "main.js.map": "/Boit-Coin/static/js/main.5554a8d4.chunk.js.map",
     "runtime-main.js": "/Boit-Coin/static/js/runtime-main.d137ace0.js",
     "runtime-main.js.map": "/Boit-Coin/static/js/runtime-main.d137ace0.js.map",
     "static/js/2.06fe60e8.chunk.js": "/Boit-Coin/static/js/2.06fe60e8.chunk.js",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.d137ace0.js",
     "static/js/2.06fe60e8.chunk.js",
     "static/css/main.4877a3ef.chunk.css",
-    "static/js/main.a74eb2eb.chunk.js"
+    "static/js/main.5554a8d4.chunk.js"
   ]
 }
