@@ -1,0 +1,53 @@
+.footer-container {
+
+  background-image: url('../img/bg-4.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact {
+  padding-bottom: 50px;
+  width: 100%;
+  
+}
+
+.contact-color {
+  
+  background-color: #121416;
+}
+
+.contact-us{
+  margin-left: 15%;
+  margin-right: 15%;
+  
+  padding: 15px;
+ 
+}
+
+.icon1 {
+  max-width: 5vw;
+  cursor: pointer;
+}
+
+.bottom-footer {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer-img {
+  max-width: 55vw;
+}
+
+.icon {
+  margin-top: 15px;
+  text-align: center;
+
+}
+
